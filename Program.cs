@@ -1,3 +1,3 @@
-﻿var result = Grade.FinalGrade(100,12);
-System.Console.WriteLine(result);
-System.Console.ReadLine();
+﻿   var result = Vowel.GetVowelCount("abracadabra");
+   System.Console.WriteLine(result);
+   Console.ReadLine();
