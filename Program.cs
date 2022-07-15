@@ -1,3 +1,3 @@
-﻿var result = TwiceAsOldSolution.TwiceAsOld(45,30);
+﻿var result = PositionAlphabet.Position('a');
 Console.WriteLine(result);
 Console.ReadLine();
