@@ -1,4 +1,3 @@
-﻿   var result = DissVowel.Disemvowel("This website is for losers LOL!");
-   System.Console.WriteLine(result); 
-  
-   Console.ReadLine();
+﻿var result = SquareNumber.Get(new int[] { 1, 2, 2 });
+System.Console.WriteLine(result);
+Console.ReadLine();
