@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+/*find unique number */
+
 namespace codewars.Zadaci
 {
     public static class FindUnique
